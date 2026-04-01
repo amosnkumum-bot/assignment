@@ -1,3 +1,4 @@
+// Name: AMOS SADALA Saqfari lab.
 
 fun main() {
 
@@ -6,7 +7,7 @@ fun main() {
     // =========================
 
     // Task 1.1
-    var studentName: String = "Alex Morgan" // mutable
+    var studentName: String = "Sadala Nkumum" // mutable
     val studentId: Int = 2024001           // immutable
     var GPA: Double = 3.75                // mutable
     val isEnrolled: Boolean = true        // immutable
@@ -177,11 +178,12 @@ fun isEven(number: Int): Boolean = number % 2 == 0
 // =========================
 
 val students = listOf(
-    "Alice" to 85,
-    "Bob" to 42,
-    "Charlie" to 67,
-    "Diana" to 91,
-    "Ethan" to 38
+    "Sadala" to 85,
+    "Sabaya" to 43,
+    "Sanau" to 67,
+    "Sintei" to 92,
+    "Susan" to 38
+
 )
 
 // 1
